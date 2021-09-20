@@ -1,0 +1,9 @@
+.star {
+  cursor: pointer;
+}
+.like {
+  color: yellow;
+}
+.not_like {
+  color: gray;
+}
